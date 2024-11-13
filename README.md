@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ringeroffcial
 - 👀 I’m interested in being a software Developer
-- 🌱 I’m currently Studying BIT and Python
+- 🌱 I’m currently Studying BIT and Python and front-end development
 - 💞️ I’m looking to collaborate on Any IT Tech C
 - 📫 How to reach me Reach out for my email at thegreatringer@gmail.com
 - 😄 Pronouns: He/him
