@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ringeroffcial
+- 👋 Hi, I’m Mahlori
 - 👀 I’m interested in being a software Developer
 - 🌱 I’m currently Studying BIT and Python and front-end development
 - 💞️ I’m looking to collaborate on Any IT Tech C
-- 📫 How to reach me Reach out for my email at thegreatringer@gmail.com
+- 📫 How to reach me Reach out for my email at mahloribaloyi09@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am alwas Interested in Learning something New Everyday.
 
